@@ -2,6 +2,11 @@
 
 This project is a full-stack web application that leverages the power of Node.js to fetch data from an external API and store it in a MongoDB database. The application uses the Mongoose library to interact with the database, allowing for efficient and scalable data management. The frontend of the application is built using HTML and CSS and styled using Bootstrap, a responsive design framework. The application allows the user to view and interact with the top 10 results from the external API, including expanding rows to view additional information. The project also includes a README file with detailed instructions on how to install and use the application.
 
+## Screenshots
+![large_screen](https://github.com/anshumagahlot22/Node.js-Assignment/assets/98377176/de594d79-f5e7-40bc-8d2e-368c87ef7978)
+![tablet](https://github.com/anshumagahlot22/Node.js-Assignment/assets/98377176/4aab28b6-5715-41da-8782-28b5f3554ffa)
+![small](https://github.com/anshumagahlot22/Node.js-Assignment/assets/98377176/b874ff3a-f231-4dfa-9e1f-1de3222c4e60)
+
 ## Technologies Used
 
 - Node.js
@@ -31,9 +36,5 @@ To use the project, open your browser and navigate to [http://localhost:3000](ht
 
 This project is licensed under the MIT License.
 
-## Screenshots
-
-![Screenshot 1](/large_screen.png)
-![large_screen](https://github.com/anshumagahlot22/Node.js-Assignment/assets/98377176/de594d79-f5e7-40bc-8d2e-368c87ef7978)
 
 
