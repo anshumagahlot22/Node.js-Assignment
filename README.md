@@ -33,12 +33,7 @@ This project is licensed under the MIT License.
 
 ## Screenshots
 
-![Screenshot 1](screenshots/laptop.png)
-![Screenshot 2](screenshots/tablet.png)
-![Screenshot 3](screenshots/small.png)
+![Screenshot 1](https://github.com/anshumagahlot22/Node.js-Assignment/blob/main/screenshots/laptop.png)
+![Screenshot 2](https://github.com/anshumagahlot22/Node.js-Assignment/blob/main/screenshots/mobile.png)
+![Screenshot 3](https://github.com/anshumagahlot22/Node.js-Assignment/blob/main/screenshots/small.png)
 
-To include a screenshot in your README.md file:
-
-1. Add your screenshot to a folder named `screenshots` in the root directory of your project.
-2. Replace `/screenshots/screenshot1.png` in the code above with the path to your screenshot.
-3. Repeat the above steps for each additional screenshot you want to include.
