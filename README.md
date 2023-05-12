@@ -33,9 +33,9 @@ This project is licensed under the MIT License.
 
 ## Screenshots
 
-- ![Screenshot 1](/screenshots/laptop.png)
-- ![Screenshot 2](/screenshots/tablet.png)
-- ![Screenshot 3](/screenshots/small.png)
+![Screenshot 1](screenshots/laptop.png)
+![Screenshot 2](screenshots/tablet.png)
+![Screenshot 3](screenshots/small.png)
 
 To include a screenshot in your README.md file:
 
