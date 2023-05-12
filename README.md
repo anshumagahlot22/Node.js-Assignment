@@ -33,7 +33,7 @@ This project is licensed under the MIT License.
 
 ## Screenshots
 
-![Screenshot 1](https://github.com/anshumagahlot22/Node.js-Assignment/blob/main/screenshots/laptop.png)
-![Screenshot 2](https://github.com/anshumagahlot22/Node.js-Assignment/blob/main/screenshots/mobile.png)
-![Screenshot 3](https://github.com/anshumagahlot22/Node.js-Assignment/blob/main/screenshots/small.png)
+![Screenshot 1](/large_screen.png)
+![large_screen](https://github.com/anshumagahlot22/Node.js-Assignment/assets/98377176/de594d79-f5e7-40bc-8d2e-368c87ef7978)
+
 
