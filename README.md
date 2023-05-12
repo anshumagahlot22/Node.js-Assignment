@@ -1,6 +1,6 @@
 # Node.js Assignment
 
-This project fetches the top 10 results from an external API and stores them in a MongoDB database using Mongoose. It then retrieves the data from the database and displays it on the frontend using Express.js.
+This project is a full-stack web application that leverages the power of Node.js to fetch data from an external API and store it in a MongoDB database. The application uses the Mongoose library to interact with the database, allowing for efficient and scalable data management. The frontend of the application is built using HTML and CSS and styled using Bootstrap, a responsive design framework. The application allows the user to view and interact with the top 10 results from the external API, including expanding rows to view additional information. The project also includes a README file with detailed instructions on how to install and use the application.
 
 ## Technologies Used
 
@@ -33,9 +33,9 @@ This project is licensed under the MIT License.
 
 ## Screenshots
 
-![Screenshot 1](/screenshots/large-screen.png)
-![Screenshot 2](/screenshots/meduim screen.png)
-![Screenshot 3](/screenshots/small-screen.png)
+- ![Screenshot 1](/screenshots/laptop.png)
+- ![Screenshot 2](/screenshots/tablet.png)
+- ![Screenshot 3](/screenshots/small.png)
 
 To include a screenshot in your README.md file:
 
